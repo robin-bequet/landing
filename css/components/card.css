@@ -1,0 +1,27 @@
+.card{
+    background: white;
+    width: 440px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 0 15px 35px rgba(50,50,93,0.1)
+    
+}
+.img-round{
+    width: 165px;
+    border-radius: 20%;
+    margin: 50px 30px;
+    height: 207px;
+}
+.imgtxt{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+p{
+    margin-bottom: 50px;
+    width: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
